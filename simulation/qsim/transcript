@@ -1,0 +1,81 @@
+# do Project3.do 
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Project3
+# 
+# Top level modules:
+# 	Project3
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Project3_vlg_sample_tst
+# -- Compiling module Project3_vlg_check_tst
+# -- Compiling module Project3_vlg_vec_tst
+# 
+# Top level modules:
+# 	Project3_vlg_vec_tst
+# vsim -L cycloneii_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate -c -t 1ps -novopt work.Project3_vlg_vec_tst 
+# Loading work.Project3_vlg_vec_tst
+# Loading work.Project3
+# Loading cycloneii_ver.cycloneii_lcell_comb
+# Loading cycloneii_ver.cycloneii_lcell_ff
+# Loading cycloneii_ver.cycloneii_io
+# Loading cycloneii_ver.cycloneii_mux21
+# Loading cycloneii_ver.cycloneii_dffe
+# Loading cycloneii_ver.cycloneii_asynch_io
+# Loading work.Project3_vlg_sample_tst
+# Loading work.Project3_vlg_check_tst
+# Loading cycloneii_ver.CYCLONEII_PRIM_DFFE
+# ERROR! Vector Mismatch for output port BusWires[0] :: @time = 360000.000 ps
+#      Expected value = 0000000000000000
+#      Real value = 0001000111010111
+# ERROR! Vector Mismatch for output port BusWires[1] :: @time = 360000.000 ps
+#      Expected value = 0000000000000000
+#      Real value = 0001000111010111
+# ERROR! Vector Mismatch for output port BusWires[2] :: @time = 360000.000 ps
+#      Expected value = 0000000000000000
+#      Real value = 0001000111010111
+# ERROR! Vector Mismatch for output port BusWires[4] :: @time = 360000.000 ps
+#      Expected value = 0000000000000000
+#      Real value = 0001000111010111
+# ERROR! Vector Mismatch for output port BusWires[6] :: @time = 360000.000 ps
+#      Expected value = 0000000000000000
+#      Real value = 0001000111010111
+# ERROR! Vector Mismatch for output port BusWires[7] :: @time = 360000.000 ps
+#      Expected value = 0000000000000000
+#      Real value = 0001000111010111
+# ERROR! Vector Mismatch for output port BusWires[8] :: @time = 360000.000 ps
+#      Expected value = 0000000000000000
+#      Real value = 0001000111010111
+# ERROR! Vector Mismatch for output port BusWires[12] :: @time = 360000.000 ps
+#      Expected value = 0000000000000000
+#      Real value = 0001000111010111
+# ERROR! Vector Mismatch for output port BusWires[3] :: @time = 380000.000 ps
+#      Expected value = 0000000000000000
+#      Real value = 1111111111111111
+# ERROR! Vector Mismatch for output port BusWires[5] :: @time = 380000.000 ps
+#      Expected value = 0000000000000000
+#      Real value = 1111111111111111
+# ERROR! Vector Mismatch for output port BusWires[9] :: @time = 380000.000 ps
+#      Expected value = 0000000000000000
+#      Real value = 1111111111111111
+# ERROR! Vector Mismatch for output port BusWires[10] :: @time = 380000.000 ps
+#      Expected value = 0000000000000000
+#      Real value = 1111111111111111
+# ERROR! Vector Mismatch for output port BusWires[11] :: @time = 380000.000 ps
+#      Expected value = 0000000000000000
+#      Real value = 1111111111111111
+# ERROR! Vector Mismatch for output port BusWires[13] :: @time = 380000.000 ps
+#      Expected value = 0000000000000000
+#      Real value = 1111111111111111
+# ERROR! Vector Mismatch for output port BusWires[14] :: @time = 380000.000 ps
+#      Expected value = 0000000000000000
+#      Real value = 1111111111111111
+# ERROR! Vector Mismatch for output port BusWires[15] :: @time = 380000.000 ps
+#      Expected value = 0000000000000000
+#      Real value = 1111111111111111
+# ERROR! Vector Mismatch for output port Done :: @time = 380000.000 ps
+#      Expected value = 0
+#      Real value = 1
+#          17 mismatched vectors : Simulation failed !
+# ** Note: $finish    : Project3.vt(495)
+#    Time: 640 ns  Iteration: 0  Instance: /Project3_vlg_vec_tst/tb_out

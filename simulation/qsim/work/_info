@@ -1,0 +1,161 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\kirou\Desktop\Project3\simulation\qsim
+vProject3
+Z1 !s100 KOf1gIHQfAD_MEIlniER81
+Z2 I?zVH`SBHL;S_7fEYM0<H:1
+Z3 VYN?3kjHMHUFmEL0oFMLCA3
+Z4 dC:\Users\kirou\Desktop\Project3\simulation\qsim
+Z5 w1499100271
+Z6 8Project3.vo
+Z7 FProject3.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|Project3.vo|
+Z10 o-work work -O0
+Z11 n@project3
+!i10b 1
+!s85 0
+Z12 !s108 1499100272.716000
+Z13 !s107 Project3.vo|
+!s101 -O0
+vProject3_vlg_check_tst
+!i10b 1
+!s100 4@lVeWI5jImi:T6`k4L662
+IY5K_R:DUGg1A[[aN6O_5f1
+Z14 Vd^9X74MCQVknj5QQS5^=c3
+R4
+Z15 w1499100269
+Z16 8Project3.vt
+Z17 FProject3.vt
+L0 63
+R8
+r1
+!s85 0
+31
+Z18 !s108 1499100273.099000
+Z19 !s107 Project3.vt|
+Z20 !s90 -work|work|Project3.vt|
+!s101 -O0
+R10
+Z21 n@project3_vlg_check_tst
+vProject3_vlg_sample_tst
+!i10b 1
+Z22 !s100 2Yl6B?CiR]eoJaK=NLMzh0
+Z23 IOUhn?RdA4UePf8BUlj:<10
+Z24 VDMF9SUgh^Sl@dn>T<NO[81
+R4
+R15
+R16
+R17
+L0 29
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R10
+Z25 n@project3_vlg_sample_tst
+vProject3_vlg_vec_tst
+!i10b 1
+!s100 m`k@7?1M0bQ9WkZ7j1X]C0
+IAYjYM=Tz9:bBL6mAX2j?T0
+Z26 V0n@af[`zD^;8b6U[:izEe2
+R4
+R15
+R16
+R17
+L0 499
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R10
+Z27 n@project3_vlg_vec_tst
+vupcount
+Z28 IGUAzYnI18d8g^1CSf4LcW1
+Z29 V6F[W^nTWj`kicHA9eP>;d3
+R4
+Z30 w1499094393
+R6
+R7
+L0 31
+R8
+r1
+31
+R9
+R10
+Z31 !s100 89eC:Y_[TTJ@GVOMSfS423
+Z32 !s108 1499094394.581000
+R13
+!i10b 1
+!s85 0
+!s101 -O0
+vupcount_vlg_check_tst
+Z33 IbJ13o;nB2Y_9mbhiY^]a:2
+Z34 VJMG7ddTQTBkl`_gWX`W]S1
+R4
+Z35 w1499094391
+R16
+R17
+L0 59
+R8
+r1
+31
+Z36 !s108 1499094394.842000
+Z37 !s107 Project3.vt|
+R20
+R10
+Z38 !s100 aOKI8Cfk;]<UX5nMb?7132
+!i10b 1
+!s85 0
+!s101 -O0
+vupcount_vlg_sample_tst
+Z39 I7@iYcg<N1ojG]338bg;Km2
+Z40 VO`M=AUDmFZ2Yd=holGhgR0
+R4
+R35
+R16
+R17
+L0 29
+R8
+r1
+31
+R36
+R37
+R20
+R10
+Z41 !s100 VLeDNGM79V3ID^DGQekIj1
+!i10b 1
+!s85 0
+!s101 -O0
+vupcount_vlg_vec_tst
+Z42 Io2n<5F@QGYU;NJ9NMdD@11
+Z43 VCRN>Y<]ZEdOa`]60C=aF30
+R4
+R35
+R16
+R17
+Z44 L0 171
+R8
+r1
+31
+R36
+R37
+R20
+R10
+Z45 !s100 BfajkkRCFbFkAQz:1dLjV0
+!i10b 1
+!s85 0
+!s101 -O0
